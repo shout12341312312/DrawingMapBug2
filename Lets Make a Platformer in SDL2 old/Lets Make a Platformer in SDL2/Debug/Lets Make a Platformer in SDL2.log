@@ -1,0 +1,4 @@
+﻿  ScreenManager.cpp
+c:\users\michu\desktop\lets make a platformer in sdl2 old\lets make a platformer in sdl2\tile.h(18): warning C4091: 'static ': ignored on left of 'Tile::State' when no variable is declared
+  Lets Make a Platformer in SDL2.vcxproj -> C:\Users\MICHU\Desktop\Lets Make a Platformer in SDL2 old\Debug\Lets Make a Platformer in SDL2.exe
+  Lets Make a Platformer in SDL2.vcxproj -> C:\Users\MICHU\Desktop\Lets Make a Platformer in SDL2 old\Debug\Lets Make a Platformer in SDL2.pdb (Partial PDB)
